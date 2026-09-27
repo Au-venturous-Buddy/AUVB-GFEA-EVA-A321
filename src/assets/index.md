@@ -1,5 +1,5 @@
 ---
-title: "Japan Airlines B787-8"
+title: "EVA Air B787-9"
 retired: false
 category: "Wordpress Posts"
 ---

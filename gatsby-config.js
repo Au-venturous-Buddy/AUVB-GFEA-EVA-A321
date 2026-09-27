@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Au-venturous Buddy Gotta Fly 'Em All: Japan Airlines B787-8`,
+    title: `Au-venturous Buddy Gotta Fly 'Em All: EVA Air B787-9`,
     author: `Au-venturous Buddy`
   },
   plugins: [
@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Au-venturous Buddy Gotta Fly 'Em All: Japan Airlines B787-8`,
-        short_name: `AUVB-GFEA-JAL-B788`,
+        name: `Au-venturous Buddy Gotta Fly 'Em All: EVA Air B787-9`,
+        short_name: `AUVB-GFEA-EVA-B789`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
